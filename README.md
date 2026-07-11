@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="README.zh-CN.md">🇨🇳 中文</a> · <a href="README.md">🇬🇧 English</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Only-No%20Backend-4f6ef7?style=flat-square" alt="Frontend Only">
   <img src="https://img.shields.io/badge/Chart.js-4.4.7-ff6384?style=flat-square" alt="Chart.js">
   <img src="https://img.shields.io/badge/Languages-10-10b981?style=flat-square" alt="Languages">
